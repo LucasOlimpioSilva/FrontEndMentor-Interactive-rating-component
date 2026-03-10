@@ -35,7 +35,7 @@ Users should be able to:
 
 ## My process
 
-I take the recommended process of starting with the HTML and then going through with the css from top to bottom. I wasn't sure if I wanted to use the li or button tags for the score selection, I opted for the li once I learned that it could have the value attribute, but I actually had a buttons version to use the focus attribute but when I noticed that the focus would go off by clicking any part of the site I decided to do the effect with classes and JS. I didn't have more problems with the HTML and CSS parts. The JS was not difficult but I got stuck trying to figure out how to remove the selected class of other buttons when clicking a new one, once I figured that out the rest was straighfoward. 
+I took the recommended process of starting with the HTML and then going through with css from top to bottom. I wasn't sure if I wanted to use the li or button tags for the score selection, I opted for the li tag once I learned that it could have the value attribute. I didn't have more problems with the HTML and CSS parts. The JS was not difficult but I got stuck trying to figure out how to remove the selected class of other buttons when clicking a new one, once I figured that out the rest was straighfoward. 
 
 At the start of the challenge I wasn't sure if I should build a second page for the 'thank you' or if I should do it the way I did, I still don't know if this was the best approach however I think I was able to meet the rules of the challenge.
 
@@ -48,7 +48,7 @@ At the start of the challenge I wasn't sure if I should build a second page for 
 
 ### What I learned
 
-As I said this was the code I had more trouble with, I can't tell if it is the best solution for removing the classes of all buttons but I'm happy I figured out a way on my own by failing and retrying.
+As I said this was the code I had the most trouble with, I can't tell if it is the best solution for removing the classes of all buttons but I'm happy I figured out a way on my own by failing and retrying.
 
 ```js
 scoreButtons.forEach( button => {  
