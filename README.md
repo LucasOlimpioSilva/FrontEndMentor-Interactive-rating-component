@@ -16,7 +16,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Overview
 
-  This challenge was more about the JS part then anything givem I'm not confortable with it yet, that said I'm satisfied with how I did it. There's one problem in it (that I know of at least) that I didn't correct, and it is that you are able to submit the score without selecting anything, but I think that for the purposes of this challenge this isn't a big problem.
+  This challenge was more about the JS part then anything, givem I'm not confortable with it yet, that said I'm satisfied with how I did it. There's one problem in it (that I know of at least) that I didn't correct, and it is that you are able to submit the score without selecting anything, but I think that for the purposes of this challenge this isn't a big problem.
+
+Here's the link to the challange's page: https://lucasolimpiosilva.github.io/FrontEndMentor-Interactive-rating-component/
 
 ### The challenge
 
